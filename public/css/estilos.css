@@ -1,0 +1,7 @@
+.selector {
+    color: #007bff; /* Changed from purple */
+}
+
+.selector-gradient {
+    background: linear-gradient(to right, #007bff, #0056b3); /* Changed gradient colors */
+}
